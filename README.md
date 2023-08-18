@@ -18,3 +18,7 @@ Spring
 2. ORM: JPA.
 3. Data tool: Mysql.
 4. Build tool: Maven
+
+
+
+Adding docker image
