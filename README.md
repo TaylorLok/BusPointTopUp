@@ -11,6 +11,10 @@ Let's innovate travel together!
 Backend:
 
 Java 
-1. Spring MVC WEB, Thymeleaf.
-2. ORM JPA.
-3. Presentation layer technologies.
+JEE 17
+Spring
+
+1. Presentation layer technology: Spring MVC WEB, Thymeleaf.
+2. ORM: JPA.
+3. Data tool: Mysql.
+4. Build tool: Maven
